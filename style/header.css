@@ -1,0 +1,24 @@
+header{
+    width: 100%;
+    background-color: #ff944d;
+    text-align: center;
+}
+
+h1{
+    font-size: 30px;
+    padding: 15px 0 10px 0;
+    color: #fff;
+}
+
+header p{
+    color: #ffe0cc;
+    padding-bottom: 5px;
+}
+
+header li{
+    background-color: #993d00;
+    font-size: 20px;
+    padding: 4px;
+    color: #fff;
+}
+
